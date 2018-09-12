@@ -1,2 +1,3 @@
 *.zip
 .eslintrc.json
+api_key.txt
