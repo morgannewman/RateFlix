@@ -1,0 +1,176 @@
+{
+  "actorCount": 5,
+  "actors": [
+      {
+          "name": "Maximus \"Batman\" Allen",
+          "url": "/celebrity/maximus_batman_allen",
+          "image": "https://staticv2-4.rottentomatoes.com/static/images/redesign/poster_default_redesign.gif"
+      },
+      {
+          "name": "Zal Batmanglij",
+          "url": "/celebrity/zal_batmanglij",
+          "image": "https://resizing.flixster.com/KgBGHcPehoiDxlUC85bv0cCKps0=/fit-in/80x80/v1.cjs0OTAyOTtqOzE3ODIwOzEyMDA7NTQ2OzU3Ng"
+      },
+      {
+          "name": "Rostam Batmanglij",
+          "url": "/celebrity/rostam_batmanglij",
+          "image": "https://staticv2-4.rottentomatoes.com/static/images/redesign/poster_default_redesign.gif"
+      },
+      {
+          "name": "Batman and Robin",
+          "url": "/celebrity/batman_and_robin",
+          "image": "https://staticv2-4.rottentomatoes.com/static/images/redesign/poster_default_redesign.gif"
+      },
+      {
+          "name": "Lilien Batman",
+          "url": "/celebrity/lilien_batman",
+          "image": "https://staticv2-4.rottentomatoes.com/static/images/redesign/poster_default_redesign.gif"
+      }
+  ],
+  "criticCount": 0,
+  "critics": [],
+  "franchiseCount": 3,
+  "franchises": [
+      {
+          "title": "Batman",
+          "url": "/franchise/batman_movies",
+          "image": "https://resizing.flixster.com/XN_Detgvd-LTnV5xrHb5KhfXDT8=/fit-in/80x80/v1.bjsxNTI2NTU1O2o7MTc4Mzc7MTIwMDs2MDA7MjYy"
+      },
+      {
+          "title": "DC Extended Universe",
+          "url": "/franchise/dc_comics",
+          "image": "https://resizing.flixster.com/RyQLhTgK4QbSHforinx9e146qhY=/fit-in/80x80/v1.bjs5NzIwOTI7ajsxNzgzMTsxMjAwOzYwMDsyNjI"
+      },
+      {
+          "title": "Superman",
+          "url": "/franchise/superman_the_movie",
+          "image": "https://resizing.flixster.com/CtN6-GCP2BVrtH9i-73nNTwg454=/fit-in/80x80/v1.bjsxNDMzNTIzO2o7MTc4MzY7MTIwMDs2MDA7MjYy"
+      }
+  ],
+  "movieCount": 59,
+  "movies": [
+      {
+          "name": "Batman",
+          "year": 1989,
+          "url": "/m/1001781-batman",
+          "image": "https://resizing.flixster.com/YZ741FEjg2eFndbDxDxDerSCTlw=/fit-in/80x80/v1.bTsxMTE2ODA4ODtqOzE3OTA0OzEyMDA7ODAwOzEyMDA",
+          "meterClass": "fresh",
+          "meterScore": 72,
+          "castItems": [
+              {
+                  "name": "Michael Keaton",
+                  "url": "/celebrity/michael_keaton"
+              },
+              {
+                  "name": "Jack Nicholson",
+                  "url": "/celebrity/jack_nicholson"
+              },
+              {
+                  "name": "Kim Basinger",
+                  "url": "/celebrity/kim_basinger"
+              }
+          ],
+          "subline": "Michael Keaton, Jack Nicholson, Kim Basinger, "
+      },
+      {
+          "name": "The Dark Knight",
+          "year": 2008,
+          "url": "/m/the_dark_knight",
+          "image": "https://resizing.flixster.com/9uojSxVUfNZOaWbIo0BzjdKcBfo=/fit-in/80x80/v1.bTsxMTE2NTE2MDtqOzE3OTA0OzEyMDA7ODAwOzEyMDA",
+          "meterClass": "certified_fresh",
+          "meterScore": 94,
+          "castItems": [
+              {
+                  "name": "Christian Bale",
+                  "url": "/celebrity/christian_bale"
+              },
+              {
+                  "name": "Heath Ledger",
+                  "url": "/celebrity/heath_ledger"
+              },
+              {
+                  "name": "Aaron Eckhart",
+                  "url": "/celebrity/aaron_eckhart"
+              }
+          ],
+          "subline": "Christian Bale, Heath Ledger, Aaron Eckhart, "
+      },
+      {
+          "name": "Batman v Superman: Dawn of Justice",
+          "year": 2016,
+          "url": "/m/batman_v_superman_dawn_of_justice",
+          "image": "https://resizing.flixster.com/xczoDChzfR18R2tTF5ATtf-u_y0=/fit-in/80x80/v1.bTsxMTcxNDAxMztqOzE3ODIwOzEyMDA7NDA1MDs2MDAw",
+          "meterClass": "rotten",
+          "meterScore": 27,
+          "castItems": [
+              {
+                  "name": "Ben Affleck",
+                  "url": "/celebrity/ben_affleck"
+              },
+              {
+                  "name": "Henry Cavill",
+                  "url": "/celebrity/henry_cavill"
+              },
+              {
+                  "name": "Amy Adams",
+                  "url": "/celebrity/amy_adams"
+              }
+          ],
+          "subline": "Ben Affleck, Henry Cavill, Amy Adams, "
+      },
+      {
+          "name": "Batman: Mask Of The Phantasm 25th Anniversary",
+          "year": 2018,
+          "url": "/m/batman_mask_of_the_phantasm_25th_anniversary",
+          "image": "https://staticv2-4.rottentomatoes.com/static/images/redesign/poster_default_redesign.gif",
+          "meterClass": "N/A",
+          "castItems": [],
+          "subline": ""
+      }
+  ],
+  "tvCount": 12,
+  "tvSeries": [
+      {
+          "title": "Batman",
+          "startYear": 1966,
+          "endYear": 1968,
+          "url": "/tv/batman",
+          "meterClass": "fresh",
+          "meterScore": 92,
+          "image": "https://resizing.flixster.com/oAeIJAQ_r_5dyRJulTFnYiKoVpE=/fit-in/80x80/v1.dDsxOTk2MjI7ajsxNzgyMjsxMjAwOzU2MjU7NDIxOQ"
+      },
+      {
+          "title": "Batman Beyond",
+          "startYear": 1999,
+          "endYear": 2001,
+          "url": "/tv/batman-beyond",
+          "meterClass": "fresh",
+          "meterScore": 100,
+          "image": "https://resizing.flixster.com/-Mki8RbO17XOIfYz__Ct12i6zOc=/fit-in/80x80/v1.dDsyNzExNzM7ajsxNzgyMzsxMjAwOzQ0NDs2NjY"
+      },
+      {
+          "title": "The Batman",
+          "startYear": 2004,
+          "endYear": 2008,
+          "url": "/tv/the-batman",
+          "meterClass": "N/A",
+          "image": "https://resizing.flixster.com/UXWPQoJNMkKdnf3jOG72POdyJV0=/fit-in/80x80/v1.dDszMTQ1OTY7ajsxNzgyMzsxMjAwOzEzNjQ7MjA0Ng"
+      },
+      {
+          "title": "The Best of Batman",
+          "startYear": 2012,
+          "endYear": 2012,
+          "url": "/tv/the-best-of-batman/s01",
+          "meterClass": "N/A",
+          "image": "https://resizing.flixster.com/YTT4l1FBcQBicwp_XFe2U1bAZAE=/fit-in/80x80/v1.dDsyNzE5NDg7ajsxNzgyMzsxMjAwOzgwMDsxMjAw"
+      },
+      {
+          "title": "Batman Super Villains: Catwoman",
+          "startYear": 0,
+          "endYear": 0,
+          "url": "/tv/batman_super_villains_catwoman/s01",
+          "meterClass": "N/A",
+          "image": "https://resizing.flixster.com/9AtvSfnk4-k8QmuL1aDoUQGCMGA=/fit-in/80x80/v1.dDs1NDM1NDtqOzE3ODIwOzEyMDA7NjgzOzEwMjQ"
+      }
+  ]
+}
