@@ -39,7 +39,7 @@ function imdbRatingNode(id, rating) {
 	var span = imdbSpan();
 	var link = imdbLinkNode(id);
 	var ratingNode = document.createTextNode(rating);
-	link.appendChild(rating);
+	link.appendChild(ratingNode);
 	span.appendChild(link);
 	return span;
 }
@@ -48,7 +48,6 @@ function rtLinkNode(url) {
 	var link = document.createElement("A");
 	link.href = "https://www.rottentomatoes.com" + url;
 	link.target = "_blank";
-	console.log(link);
 	return link;
 }
 
